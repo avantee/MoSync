@@ -1,0 +1,50 @@
+PerformanceFrequency: 2933380000
+StartCount: 15379069183065
+Hello World!
+argc: 12
+1:-program
+3:-resource
+5:-resolution
+8:-fd
+Emulator connected.
+10:-id
+fmt->BitsPerPixel: 32
+AddFontResourceEx: 2 faces added.
+InitVM .. 
+LoadVM
+maxCustomEventSize: 0x30
+Head.DataSize: 0x200000
+Head.StackSize: 0x80000
+Head.HeapSize: 0x100000
+Head.EntryPoint: 0xc6fbd
+Head.CodeLen: 0xe8958
+CODE_SEGMENT_SIZE: 0x100000
+Head.DataLen: 0x1d890
+Head.DataSize: 0x200000
+DATA_SEGMENT_SIZE: 0x200000
+Head.IntLen: 0x1341
+open(C:\Documents and Settings\machine 2\Desktop\TestSQLLite\Output\Release\MoSync\Emulator\resources, 0x8000) failed: 2(No such file or directory)
+IDL version match!
+open(filesystem/testdb.sq3, 0x8302) failed: 2(No such file or directory)
+Failure -2 in ..\..\base\Syscall.cpp @ line 1140
+SDL_QUIT @ 17848
+Exit 0
+DumpCallStackEx:
+reportCallStack
+0
+IP: 0xd20a8
+Call stack: 7 frames
+0: 0xc6fee
+1: 0x57cf4
+2: 0xd2936
+3: 0xdb84e
+4: 0xd20bc
+5: 0xd20ca
+6: 0xd20aa
+Exit @ IP 0xd20a8  SP 0x1fff1c
+InstCount: 38198
+IP: 0xC6FBD
+Profile dumped.
+level: 7
+maxLevel: 14
+nodes: 498

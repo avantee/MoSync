@@ -1,0 +1,56 @@
+rebuild-needed = false
+variant = MoSync/Emulator Release Non-finalizer 
+success = true
+timestamp = 1341131692421
+
+[files]
+sqlite3ext.h = 1287428398000
+.mosyncproject.local = 1341129336828
+.mosyncproject = 1341129336828
+sqlite3.c = 1287428398000
+main.cpp = 1287684796000
+testdb.sq3 = 1341128749171
+.cproject = 1287430942000
+.project = 1287679912000
+newlib_x.c = 1287317156662
+sqlite3.h = 1287431254000
+
+[dependencies]
+/TestSQLLite/newlib_x.c = /TestSQLLite/Output/Release/newlib_x.s
+/TestSQLLite/Output/Release/newlib_x.s = /TestSQLLite/MoSync/include/newlib/sys/reent.h, /TestSQLLite/MoSync/include/newlib/machine/time.h, /TestSQLLite/MoSync/include/newlib/sys/lock.h, /TestSQLLite/MoSync/include/newlib/sys/config.h, /TestSQLLite/MoSync/include/newlib/machine/types.h, /TestSQLLite/Documents/ and/ Settings/machine/ 2/Desktop/TestSQLLite/newlib_x.c, /TestSQLLite/MoSync/include/newlib/sys/_types.h, /TestSQLLite/MoSync/include/newlib/_ansi.h, /TestSQLLite/MoSync/include/newlib/fcntl.h, /TestSQLLite/MoSync/include/newlib/unistd.h, /TestSQLLite/MoSync/include/newlib/stddef.h, /TestSQLLite/MoSync/include/newlib/sys/errno.h, /TestSQLLite/MoSync/include/newlib/machine/ieeefp.h, /TestSQLLite/MoSync/include/newlib/newlib.h, /TestSQLLite/MoSync/include/newlib/sys/unistd.h, /TestSQLLite/MoSync/include/newlib/sys/time.h, /TestSQLLite/MoSync/include/newlib/time.h, /TestSQLLite/MoSync/include/newlib/_syslist.h, /TestSQLLite/MoSync/include/newlib/errno.h, /TestSQLLite/MoSync/include/newlib/sys/features.h, /TestSQLLite/MoSync/include/newlib/sys/fcntl.h, /TestSQLLite/MoSync/include/newlib/machine/_types.h, /TestSQLLite/MoSync/include/newlib/sys/_default_fcntl.h, /TestSQLLite/MoSync/include/newlib/sys/stat.h, /TestSQLLite/MoSync/include/newlib/machine/_default_types.h, /TestSQLLite/MoSync/include/newlib/sys/types.h
+/TestSQLLite/sqlite3.c = /TestSQLLite/Output/Release/sqlite3.s
+/TestSQLLite/main.cpp = /TestSQLLite/Output/Release/main.s
+
+[build-properties]
+build.prefs:ignore.default.library.paths/Release = true
+excludes/Release = 
+template.id = project.moblet
+build.prefs:ignore.default.libraries/Debug = true
+build.prefs:additional.library.paths/Release = C:\\MoSync\\lib\\newlib_release
+build.prefs:extra.res.sw/Release = 
+build.prefs:ignore.default.libraries/Release = true
+build.prefs:ignore.default.include.paths/Debug = true
+build.prefs:gcc.switches/Release = -O2 -DSQLITE_MUTEX_NOOP -DSQLITE_OMIT_LOAD_EXTENSION
+build.prefs:extra.link.sw/Release = 
+symbian.uids:uid.s60v3uid = 0xea1d318e
+build.prefs:memory.stack/Release = 512
+build.prefs:additional.library.paths/Debug = %mosync-home%/lib/pipe
+build.prefs:memory.data/Release = 2048
+build.prefs:additional.include.paths/Release =  C:\\MoSync\\include\\newlib
+build.prefs:additional.include.paths/Debug = %mosync-home%/include
+build.prefs:additional.libraries = mastd.lib, MAUtil.lib
+build.prefs:gcc.warnings/Release = 0
+build.prefs:additional.library.paths = %mosync-home%/lib/pipe
+build.prefs:ignore.default.library.paths/Debug = true
+dependency.strategy = 0
+build.prefs:memory.heap/Release = 1024
+build.prefs:additional.include.paths = %mosync-home%/include
+build.prefs:ignore.default.library.paths = true
+build.prefs:additional.libraries/Debug = mastdD.lib, MAUtilD.lib
+build.prefs:ignore.default.include.paths = true
+build.prefs:ignore.default.libraries = true
+build.prefs:ignore.default.include.paths/Release = true
+build.prefs:additional.libraries/Release = newlib.lib, maui.lib, mautil.lib
+build.prefs:project.type = 
+build.prefs:app.permissions = Bluetooth Calendar Calendar/Read Calendar/Write Camera Contacts Contacts/Read Contacts/Write File\\ Storage Internet\\ Access Location Location/Coarse Location/Fine Power\\ Management SMS SMS/Read SMS/Receive SMS/Send Vibrate
+

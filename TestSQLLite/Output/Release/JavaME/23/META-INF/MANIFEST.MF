@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+MIDlet-Vendor: Built with MoSync SDK
+MIDlet-Name: TestSQLLite
+MIDlet-Version: 1.0
+Created-By: MoSync package
+MIDlet-1: TestSQLLite, temp.png, MAMidlet
+MIDlet-Permissions: javax.microedition.io.Connector.bluetooth.client, ja
+ vax.microedition.io.Connector.bluetooth.server, javax.microedition.pim.
+ EventList.read, javax.microedition.pim.ToDoList.read, javax.microeditio
+ n.pim.EventList.write, javax.microedition.pim.ToDoList.write, javax.mic
+ roedition.pim.ContactList.read, javax.microedition.pim.ContactList.writ
+ e, javax.microedition.io.Connector.file.read, javax.microedition.io.Con
+ nector.file.write, javax.microedition.io.Connector.http, javax.microedi
+ tion.io.Connector.sms, javax.wireless.messaging.mms.receive, javax.micr
+ oedition.io.Connector.sms, javax.wireless.messaging.mms.send, javax.mic
+ roedition.location.Location, javax.microedition.location.Orientation
+MIDlet-Permissions-Opt: javax.microedition.media.control.VideoControl.ge
+ tSnapshot, javax.microedition.io.Connector.socket
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1

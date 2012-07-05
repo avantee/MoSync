@@ -1,0 +1,16 @@
+ \
+ C:\Documents\ and\ Settings\machine\ 2\Desktop\TestSQLLite\Output\Release\MoSync\Emulator\main.s:  \
+ C:\Documents\ and\ Settings\machine\ 2\Desktop\TestSQLLite\main.cpp \
+  C:/MoSync/include/newlib/newlib.h \
+  C:/MoSync/include/newlib/MAUtil/Moblet.h C:/MoSync/include/newlib/ma.h \
+  C:/MoSync/include/newlib/maapi.h C:/MoSync/include/newlib/maapi_defs.h \
+  C:/MoSync/include/newlib/stddef.h C:/MoSync/include/newlib/maassert.h \
+  C:/MoSync/include/newlib/ma.h \
+  C:/MoSync/include/newlib/MAUtil/Environment.h \
+  C:/MoSync/include/newlib/MAUtil/Vector.h \
+  C:/MoSync/include/newlib/MAUtil/ListenerSet.h \
+  C:/MoSync/include/newlib/MAUtil/util.h \
+  C:/MoSync/include/newlib/MAUtil/String.h \
+  C:/MoSync/include/newlib/MAUtil/RefCounted.h \
+  C:\Documents\ and\ Settings\machine\ 2\Desktop\TestSQLLite\/sqlite3.h \
+  C:/MoSync/include/newlib/stdarg.h

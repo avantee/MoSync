@@ -1,0 +1,48 @@
+PerformanceFrequency: 2933380000
+StartCount: 14681441461456
+Hello World!
+argc: 12
+1:-program
+3:-resource
+5:-resolution
+8:-fd
+Emulator connected.
+10:-id
+fmt->BitsPerPixel: 32
+AddFontResourceEx: 2 faces added.
+InitVM .. 
+LoadVM
+maxCustomEventSize: 0x30
+Head.DataSize: 0x200000
+Head.StackSize: 0x80000
+Head.HeapSize: 0x100000
+Head.EntryPoint: 0xc6274
+Head.CodeLen: 0xe7f7d
+CODE_SEGMENT_SIZE: 0x100000
+Head.DataLen: 0x1d838
+Head.DataSize: 0x200000
+DATA_SEGMENT_SIZE: 0x200000
+Head.IntLen: 0x1355
+open(C:\Documents and Settings\machine 2\Desktop\TestSQLLite\Output\Release\resources, 0x8000) failed: 2(No such file or directory)
+IDL version match!
+open(filesystem/testdb.sq3, 0x8302) failed: 2(No such file or directory)
+Failure -2 in ..\..\base\Syscall.cpp @ line 871
+Exit 0
+DumpCallStackEx:
+reportCallStack
+0
+IP: 0x579b0
+Call stack: 6 frames
+0: 0xc62a0
+1: 0x57cf4
+2: 0xe2bf4
+3: 0xdccfe
+4: 0x579a0
+5: 0x579b2
+Exit @ IP 0x579b0  SP 0x1ffef8
+InstCount: 38709
+IP: 0xC6274
+Profile dumped.
+level: 6
+maxLevel: 14
+nodes: 509

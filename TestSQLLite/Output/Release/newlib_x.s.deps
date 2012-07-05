@@ -1,0 +1,22 @@
+ \
+ C:\Documents\ and\ Settings\machine\ 2\Desktop\TestSQLLite\Output\Release\newlib_x.s:  \
+ C:\Documents\ and\ Settings\machine\ 2\Desktop\TestSQLLite\newlib_x.c \
+  C:/MoSync/include/newlib/fcntl.h C:/MoSync/include/newlib/sys/fcntl.h \
+  C:/MoSync/include/newlib/sys/_default_fcntl.h \
+  C:/MoSync/include/newlib/_ansi.h C:/MoSync/include/newlib/newlib.h \
+  C:/MoSync/include/newlib/sys/config.h \
+  C:/MoSync/include/newlib/machine/ieeefp.h \
+  C:/MoSync/include/newlib/sys/features.h \
+  C:/MoSync/include/newlib/sys/types.h \
+  C:/MoSync/include/newlib/machine/_types.h \
+  C:/MoSync/include/newlib/machine/_default_types.h \
+  C:/MoSync/include/newlib/sys/_types.h \
+  C:/MoSync/include/newlib/sys/lock.h C:/MoSync/include/newlib/stddef.h \
+  C:/MoSync/include/newlib/machine/types.h \
+  C:/MoSync/include/newlib/sys/stat.h C:/MoSync/include/newlib/time.h \
+  C:/MoSync/include/newlib/_ansi.h C:/MoSync/include/newlib/sys/reent.h \
+  C:/MoSync/include/newlib/machine/time.h \
+  C:/MoSync/include/newlib/sys/time.h C:/MoSync/include/newlib/unistd.h \
+  C:/MoSync/include/newlib/sys/unistd.h \
+  C:/MoSync/include/newlib/_syslist.h C:/MoSync/include/newlib/errno.h \
+  C:/MoSync/include/newlib/sys/errno.h
